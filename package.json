@@ -1,0 +1,11 @@
+{
+  "name": "drainwatch",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AIoT-based smart drainage monitoring and flood early warning prototype",
+  "scripts": {
+    "backend": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build"
+  }
+}
